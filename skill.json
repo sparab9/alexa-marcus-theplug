@@ -3,19 +3,17 @@
     "publishingInformation": {
       "locales": {
         "en-US": {
-          "summary": "Learn fun facts about space.",
+          "summary": "This is for Dan to use for tech support.",
           "examplePhrases": [
-            "Alexa open space facts",
-            "Alexa ask space facts for a fact",
-            "Alexa tell space facts to tell me trivia"
+            "Alexa ask marcus",
+            "Alexa get marcus",
           ],
           "keywords": [
-            "space",
-            "facts",
-            "trivia"
+            "assistant",
+            "support",
           ],
-          "name": "Space Facts",
-          "description": "Ask for Space Facts, and learn about what really matters, like dark matter.\n\nSpace Facts provides fun the whole family can enjoy and is guaranteed to make you smarter.\n\nTo start, just say \"Alexa, launch Space Facts\" or \"Alexa, open Space Facts\" to get a fact\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
+          "name": "Marcus: The Plug",
+          "description": "Ask for Marcus, and let him know what you need help with.\n\nMarcus:The Plug is the guy's guy and is always there when you need him, but here's a way to help make it easier for him\n\nTo start, just say \"Alexa, launch Marcus:The Plug\" or \"Alexa, open Marcus: The Plug\" to get started\".\n\nAt anytime, you can stop by saying \"Alexa, stop\""
         },
         "en-GB": {
           "summary": "Learn fun facts about space.",
